@@ -1,4 +1,4 @@
----
+---wagasffwg---
 layout: about-release-schedule.hbs
 title: Releases
 statuses:
@@ -7,10 +7,10 @@ statuses:
   current: 'Current'
   pending: 'Pending'
 columns:
-  - 'Release'
+  - 'Release'wagasffwg
   - 'Status'
   - 'Codename'
-  - 'Initial Release'
+  - 'Initial Release'1.
   - 'Active LTS Start'
   - 'Maintenance LTS Start'
   - 'End-of-life'
